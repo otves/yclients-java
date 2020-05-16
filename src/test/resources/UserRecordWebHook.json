@@ -1,0 +1,97 @@
+{
+   "company_id":199630,
+   "resource":"record",
+   "resource_id":122641972,
+   "status":"update",
+   "data":{
+      "id":122641972,
+      "company_id":199630,
+      "staff_id":554511,
+      "services":[
+         {
+            "id":3068094,
+            "title":"\u043c\u0430\u043d\u0438\u043a\u044e\u0440+\u0441\u043d\u044f\u0442\u0438\u0435+\u0433\u0435\u043b\u044c \u043b\u0430\u043a",
+            "cost":1700,
+            "manual_cost":1700,
+            "cost_per_unit":1700,
+            "discount":0,
+            "first_cost":1700,
+            "amount":1
+         }
+      ],
+      "goods_transactions":[
+
+      ],
+      "staff":{
+         "id":554511,
+         "api_id":null,
+         "name":"\u041c\u0430\u0440\u0438\u044f \u0413\u0440\u043e",
+         "specialization":"Nail-\u044d\u043a\u0441\u043f\u0435\u0440\u0442",
+         "avatar":"https:\/\/yclients.com\/images\/no-master-sm.png",
+         "avatar_big":"https:\/\/yclients.com\/images\/no-master.png",
+         "rating":5,
+         "votes_count":0
+      },
+      "client":{
+         "id":30249946,
+         "name":"\u0418\u0440\u0438\u043d\u0430 \u0411\u0435\u043b\u043e\u0432\u0430",
+         "phone":"+79162190033",
+         "card":"",
+         "email":"",
+         "success_visits_count":10,
+         "fail_visits_count":0
+      },
+      "clients_count":1,
+      "date":"2019-07-21 12:00:00",
+      "datetime":"2019-07-21T12:00:00+03:00",
+      "create_date":"2019-07-21T12:27:06+0300",
+      "comment":"",
+      "online":false,
+      "visit_attendance":1,
+      "attendance":1,
+      "confirmed":1,
+      "seance_length":7200,
+      "length":7200,
+      "sms_before":24,
+      "sms_now":1,
+      "sms_now_text":"",
+      "email_now":1,
+      "notified":0,
+      "master_request":1,
+      "api_id":"",
+      "from_url":"",
+      "review_requested":0,
+      "visit_id":102742863,
+      "created_user_id":4875640,
+      "deleted":false,
+      "paid_full":1,
+      "prepaid":false,
+      "prepaid_confirmed":false,
+      "last_change_date":"2019-07-21T14:07:40+0300",
+      "custom_color":"",
+      "custom_font_color":"",
+      "record_labels":[
+
+      ],
+      "activity_id":0,
+      "custom_fields":[
+
+      ],
+      "documents":[
+         {
+            "id":142731098,
+            "type_id":7,
+            "storage_id":0,
+            "user_id":4875640,
+            "company_id":199630,
+            "number":1176,
+            "comment":"",
+            "date_created":"2019-07-21 11:00:00",
+            "category_id":0,
+            "visit_id":102742863,
+            "record_id":122641972,
+            "type_title":"\u0412\u0438\u0437\u0438\u0442"
+         }
+      ]
+   }
+}

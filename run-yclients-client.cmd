@@ -1,0 +1,1 @@
+call java -Dserver.port=8888 -Dspring.application.json={\"app.callbackUrl\":\"192.168.280.10:7777/rest/callback\",\"app.smsServerUrl\":\"localhost:8814\"} -jar yclients.jar
